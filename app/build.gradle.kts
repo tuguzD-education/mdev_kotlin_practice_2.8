@@ -7,7 +7,7 @@ android {
     compileSdk = 32
 
     defaultConfig {
-        applicationId = "io.github.tuguzd.ui_elements"
+        applicationId = "io.github.tuguzd.cuboid"
         minSdk = 21
         targetSdk = 32
         versionCode = 1
